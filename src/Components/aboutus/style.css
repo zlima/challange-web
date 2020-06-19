@@ -1,0 +1,91 @@
+.title {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+	letter-spacing: 1px;
+	color: rgb(26, 125, 255);
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+.firsttitle {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+	letter-spacing: 1px;
+	color: rgb(26, 125, 255);
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+.secondtitle {
+	width: 100%;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 50px;
+	color: rgb(10, 25, 43);
+	margin-bottom: 25px;
+}
+
+.bodytext {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 26px;
+	letter-spacing: 0.16px;
+	color: rgb(10, 25, 43);
+}
+
+.footer {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 26px;
+	letter-spacing: 0.16px;
+	font-style: italic;
+	color: rgb(130, 142, 153);
+}
+
+.containerStorySection {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+}
+
+.titleAbout {
+	font-size: 64px;
+	font-weight: 800;
+	line-height: 74px;
+	letter-spacing: 0.5px;
+	color: rgb(3, 14, 27);
+	text-align: center;
+	margin: 120px 0px;
+}
+
+.invertOrder {
+	order: 2;
+}
+
+.sectionContainer {
+	display: flex;
+	flex-direction: column;
+	-webkit-box-pack: center;
+	justify-content: center;
+	width: calc((100%-100px) / 2);
+	margin: 120px 0;
+}
+
+.sectionImage {
+	width: 100%;
+	object-fit: contain;
+}
+
+.scrollaBarSpace {
+	width: 100px;
+}
+
+.setOrder {
+	order: 1;
+}
+
+.containerAboutus {
+	margin-bottom: 120px;
+}

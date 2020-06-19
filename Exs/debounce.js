@@ -1,4 +1,4 @@
-let debounce = (func, delay = 0, options) => {
+let debounce = (func, delay = 0) => {
 	let timeOutID;
 
 	return () => {

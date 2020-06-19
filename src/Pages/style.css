@@ -1,0 +1,25 @@
+.titleAbout {
+	font-size: 64px;
+	font-weight: 800;
+	line-height: 74px;
+	letter-spacing: 0.5px;
+	color: rgb(3, 14, 27);
+	text-align: center;
+	width: 100%;
+	margin: 120px 0px;
+}
+
+.container {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	position: relative;
+	margin: auto;
+	padding: 0px 48px;
+}
+
+.sectioncontainer {
+	position: relative;
+}

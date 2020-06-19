@@ -1,0 +1,10 @@
+.navbar {
+	min-height: 100px;
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
+.headerlinkwrapper {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
